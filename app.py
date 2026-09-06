@@ -1,1 +1,2 @@
+import pyarmor_runtime_000000
 import app_logic
