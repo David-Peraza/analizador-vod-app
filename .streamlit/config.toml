@@ -1,3 +1,6 @@
 [server]
 folderWatchBlacklist = ["pyarmor_runtime_000000"]
 fileWatcherType = "none"
+
+[browser]
+gatherUsageStats = false
